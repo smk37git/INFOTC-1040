@@ -1,0 +1,4 @@
+name,Homework 1,Homework 2,Exam
+Harry,10.1,20.2,30.3
+Berry,40.4,50.5,60.6
+Tina,70.7,80.8,90.9

@@ -1,0 +1,2 @@
+Text would go here
+Hello World!This is written in append mode.
