@@ -1,5 +1,5 @@
 # INFOTC-1040
-Sebasian Main<br >
+Sebastian Main<br >
 (Programming I)<br >
 (Language = Python)<br >
 
